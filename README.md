@@ -16,7 +16,7 @@
 <h3 align="left">Comprame un cafe:</h3>
 <p><a href="https://www.buymeacoffee.com/Zandy93"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Zandy93" /></a></p><br><br>
 
-## <p align="center"> <img src="https://cdn.discordapp.com/emojis/779807376060448779.gif?v=1" height=32/> Welcome to my Github! <img src="https://cdn.discordapp.com/emojis/779807376060448779.gif?v=1" height=32/> </p>
+## <p align="center"> <img src="https://cdn.discordapp.com/emojis/779807376060448779.gif?v=1" height=32/> Bienvenido a mi Github! <img src="https://cdn.discordapp.com/emojis/779807376060448779.gif?v=1" height=32/> </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anonimo93&theme=omni" />
