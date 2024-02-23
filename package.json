@@ -1,0 +1,21 @@
+{
+    "name": "anonimo93",
+    "version": "1.0.1",
+    "description": "Readme GitHub",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "update": "node index.js",
+        "test": "echo \"Error: no especificado\" && exit 1"
+    },
+    "keywords": [],
+    "author": "SiriusDev Anonimo93",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "1.6.7",
+        "execSync": "1.0.2",
+        "fs": "^0.0.1-security",
+        "handlebars": "4.7.8",
+        "moment": "2.30.1"
+    }
+}

@@ -1,29 +1,135 @@
-﻿<h1 align="center">Hola 👋, Soy Anonimo93</h1>
-<h3 align="center">Desarrollador apasionado de Cuba</h3>
+<!---------------------------------------------------- GITHub Action BOT Status ------------------------------------------------->
+<div>
+<img src="https://img.shields.io/badge/GitHub%20Action%20Bot%20Status-Online-brightgreen?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=000000&color=448EE4" align="right" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=FF880F&random=false&width=435&lines=Hey+there!+%F0%9F%91%8B;you+found+me!;Welcome+to+my+profile+README!;Come+along+for+the+ride!" alt="Typing SVG" /></a>
+<img src = "https://capsule-render.vercel.app/api?type=rect&color=448EE4&height=1&section=asdd" width = "100%">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anonimo93&label=Profile%20views&color=0e75b6&style=flat" alt="anonimo93" /> </p>
+<!------------------------------------------------------------ Banner ----------------------------------------------------------->
+<div>
+<img src="https://github.com/DaniDeDos/DaniDeDos/assets/151276855/df9c2443-f802-429b-9cd9-078a232b585d" width="100%" />
+</div>
+<br />
+<div align="center">
+  <img src="https://img.shields.io/badge/-gmail-000?style=for-the-badge&logo=gmail&color=151515&logoColor=000&labelColor=FF880F">
+  <img src="https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin&color=151515&logoColor=000&labelColor=FF880F">
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonimo93" alt="anonimo93" /></a> </p>
+<!----------------------------------------------------------- Projects ---------------------------------------------------------->
+<section class="Projects">
+<h2>💼 My Projects</h2>
+<a href="https://github.com/DaniDeDos/react-TodoListApp" target="_blank" rel="noreferrer">
+  <img align="center" alt="asd" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniDeDos&repo=react-TodoListApp&theme=transparent&icon_color=448EE4&title_color=448EE4&text_color=FF880F&border_color=FF880F" />
+</a>
+<a href="https://github.com/DaniDeDos/react-GifExpertApp" target="_blank" rel="noreferrer"  align="right" >
+  <img align="right" alt="asd" src="https://github-readme-stats.vercel.app/api/pin/?username=DaniDeDos&repo=react-GifExpertApp&theme=transparent&icon_color=448EE4&title_color=448EE4&text_color=FF880F&border_color=FF880F" />
+</a>
+</section>
+<!----------------------------------------------------------- Separator --------------------------------------------------------->
+<img src = "https://capsule-render.vercel.app/api?type=rect&color=448EE4&height=1&section=projects" width = "100%">
+<!------------------------------------------------------------------------------------------------------------------------------->
+<h2>⚙️ Skills</h2>
 
-<h3 align="left">Conecta conmigo en:</h3>
-<p align="left">
-<a href="https://dev.to/anonimo93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="anonimo93" height="30" width="40" /></a>
+<!------------------------------------------------------- Styles and Markup ----------------------------------------------------->
+<details open>
+  <summary><b>Styles and Markup</b></summary>
+
 </p>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+> <img src="https://img.shields.io/badge/-html5-000000?style=for-the-badge&logo=html5&color=000000&logoColor=000&labelColor=FF8C00">
+> <img src="https://img.shields.io/badge/-css3-000000?style=for-the-badge&logo=css3&color=000000&logoColor=000&labelColor=FF8C00">
+</details>
 
-<h3 align="left">Comprame un cafe:</h3>
-<p><a href="https://www.buymeacoffee.com/Zandy93"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Zandy93" /></a></p><br><br>
+<!--------------------------------------------------- Lenguajes de programacion ------------------------------------------------->
+<details open>
+  <summary><b>Programming Languages</b></summary>
+  
+> <img src="https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=javascript&color=000000&logoColor=000&labelColor=FF8C00">
+> <img src="https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript&color=000000&logoColor=000&labelColor=FF8C00">
+<img align='right' width='400' src='https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDeDos&theme=transparent&layout=compact&title_color=448EE4&text_color=FF880F&border_color=FF880F' alt='Astro Dab'>
 
-## <p align="center"> <img src="https://cdn.discordapp.com/emojis/779807376060448779.gif?v=1" height=32/> Bienvenido a mi Github! <img src="https://cdn.discordapp.com/emojis/779807376060448779.gif?v=1" height=32/> </p>
+</details>
+<!---------------------------------------------------- Frameworks and Libraries ------------------------------------------------->
+<details open>
+  <summary><b>Frameworks and Libraries</b></summary>
+  
+> <img src="https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react&color=000000&logoColor=000&labelColor=FF8C00"><br>
+> <img src="https://img.shields.io/badge/-styled components-000000?style=for-the-badge&logo=styled-components&color=000000&logoColor=000&labelColor=FF8C00">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anonimo93&theme=omni" />
-</a>
+</details>
+<details open>
+  <summary><b>Databases and Cloud Hosting</b></summary>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonimo93&langs_count=8&theme=omni" />
-</a>
+> <img src="https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=postgresql&color=000000&logoColor=000&labelColor=FF8C00">
+> <img src="https://img.shields.io/badge/-mongodb-000000?style=for-the-badge&logo=mongodb&color=000000&logoColor=000&labelColor=FF8C00">
+> <img src="https://img.shields.io/badge/-githubpages-000000?style=for-the-badge&logo=githubpages&color=000000&logoColor=000&labelColor=FF8C00">
+</p>
+</details>
+<details closed>
+  <summary><b>Software and Tools</b></summary>
 
+> <img src="https://img.shields.io/badge/npm-brightgreen?style=flat&logo=npm&logoColor=%20%23ffffff&labelColor=%23CB3837&color=%23CB3837" />
+> <img src="https://img.shields.io/badge/Yarn-brightgreen?style=flat&logo=yarn&logoColor=%20%23ffffff&labelColor=%232C8EBB&color=%232C8EBB" />
+> <img src="https://img.shields.io/badge/Git-brightgreen?style=flat&logo=git&logoColor=%20%23ffffff&labelColor=%23F05032&color=%23F05032" />
+> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-brightgreen?style=flat&logo=visualstudiocode&labelColor=%23007ACC&color=%23007ACC" />
+> <img src="https://img.shields.io/badge/Postman-brightgreen?style=flat&logo=postman&logoColor=%20%23ffffff&labelColor=%23FF6C37&color=%23FF6C37" />
+> <img src="https://img.shields.io/badge/Stack%20Overflow-brightgreen?style=flat&logo=stackoverflow&logoColor=%20%23ffffff&labelColor=%23F58025&color=%23F58025" />
+> <img src="https://img.shields.io/badge/NetBeans-brightgreen?style=flat&logo=apachenetbeanside&logoColor=%20%23ffffff&labelColor=%231B6AC6&color=%231B6AC6" />
+Browsers
+Operating Systems
+</details>
+</div>
+<hr>
 
+<!--------------------------------------------------------- Github Stats --------------------------------------------------------> 
+<details closed>
+  <summary><b>🌟 Github Stats</b></summary>
+    <hr>
+    <img src="https://github-readme-stats.vercel.app/api?username=DaniDeDos&show_icons=true&theme=transparent&layout=compact&title_color=448EE4&icon_color=FF880&text_color=FF880F&border_color=FF880F&rank_icon=github" alt="mystreak"  align="right"  width="400px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniDeDos&theme=transparent&border=FF880F&stroke=448EE4&fire=FF880F&currStreakNum=FF880F&ring=FF880F&sideNums=448EE4&currStreakLabel=FF880F&sideLabels=FF880F&dates=448EE4" alt="mystreak"  width="400px"/>
+    <hr>
+</details> 
+
+<!----------------------------------------------------------- About me ----------------------------------------------------------> 
+<details closed>
+  <summary><b>👤 About me</b></summary>
+  <hr>
+  
+  ```javascript
+  No activity tracked
+  ```
+  👦❤️
+  <picture><img src = "https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/about_me.gif" width = 50px></picture>
+</details>
+<hr>
+<!----------------------------------------------------------- About me ----------------------------------------------------------> 
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&center=true&vCenter=true&pause=1000&color=448EE4&random=false&width=435&lines=If+you+found+something+useful+here!;If+you+liked+it!;Please+give+me+a+star+%E2%AD%90%EF%B8%8F!;Please+follow+me!" alt="Typing SVG" /></a>
+</div>
+
+<!------------------------------------------------------------ footer ----------------------------------------------------------->
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=448EE4&height=80&section=footer" width="100%" />
+
+<div>
+<p align="right"><i>ultima coneccion</i> : <b>2/23/2024, 6:20:56 PM</b></p>
+</div>
+
+<!------------------------------------------------------------- WAKA ------------------------------------------------------------>
+ <!--START_SECTION:waka-->
+ <!--END_SECTION:waka-->
+ 
+<!--
+    
+> <img src="https://img.shields.io/badge/PostgreSQL-brightgreen?style=flat&logo=postgresql&logoColor=%20%23ffffff&labelColor=%234169E1&color=%23333333" />
+> <img src="https://img.shields.io/badge/MongoDB-brightgreen?style=flat&logo=mongodb&logoColor=%20%23ffffff&labelColor=%2347A248&color=%23333333" />
+> <img src="https://img.shields.io/badge/GitHub%20Pages-brightgreen?style=flat&logo=githubpages&logoColor=%20%23ffffff&labelColor=%23222222&color=%23333333" />
+> <img src="https://img.shields.io/badge/npm-brightgreen?style=flat&logo=npm&logoColor=CB3837&labelColor=%23333333&color=%23333333" />
+> > <img src="https://img.shields.io/badge/html-brightgreen?style=flat-square&logo=html5&logoColor=%20%23ffffff&labelColor=%23E34F26&color=%23333333" />
+> <img src="https://img.shields.io/badge/CSS%20%7C%2034%25-brightgreen?style=flat-square&logo=css3&logoColor=%20%23ffffff&labelColor=%231572B6&color=%23333333" />
+> <img src="https://img.shields.io/badge/JavaScript%EF%B8%B12.8%25-brightgreen?style=flat-square&logo=codesandbox&logoColor=%23F7DF1E&labelColor=%23F7DF1E&color=%23808080"/>
+> <img src="https://img.shields.io/badge/TypeScript%EF%B8%B12.8%25-brightgreen?style=flat-square&logo=codesandbox&logoColor=%233178C6&labelColor=%233178C6&color=%23808080"/>
+<div>
+  <img src="https://img.shields.io/badge/-gmail-000?style=for-the-badge&logo=gmail&color=EA4335&logoColor=EA4335&labelColor=151515">
+  <img src="https://img.shields.io/badge/-linkedin-000?style=for-the-badge&logo=linkedin&color=0A66C2&logoColor=0A66C2&labelColor=151515">
+</div>
