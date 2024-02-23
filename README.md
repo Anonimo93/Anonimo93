@@ -7,7 +7,7 @@
 
 <!------------------------------------------------------------ Banner ----------------------------------------------------------->
 <div>
-<img src="https://github.com/DaniDeDos/DaniDeDos/assets/151276855/df9c2443-f802-429b-9cd9-078a232b585d" width="100%" />
+<img src="" width="100%" />
 </div>
 <br />
 <div align="center">
