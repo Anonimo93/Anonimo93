@@ -1,38 +1,43 @@
 name: Update README.md
 
 on:
- push:
-   branches:
-     - master
- workflow_dispatch:
- 
- schedule:
-   - cron: "0 * * * *"
-   
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+
 jobs:
- build:
-   runs-on: ubuntu-latest
-   
-   steps:
-   - uses: actions/checkout@v3
-     with:
-       token: ${{ secrets.GH_TOKEN }}
-       
-   - uses: actions/setup-node@v1
-     with:
-       node-version: '16'
-   - run: npm install
-   - run: npm run update
-     env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        
-   - run: |
-        botActive=$(cat ./status.json | jq '.botActive')
-        sed -i "s|<p>Bot activo: .*?</p>|<p>Bot activo: ${botActive}</p>|" README.md
-        git config user.name Anonimo93
-        git config user.email zandytorrea@gmail.com
-        git add README.md
-        git add status.json
-        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README with latest info"
-        git pull origin master
-        git push origin master
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Run Update Script
+        run: npm run update
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Update README and commit changes
+        run: |
+          botActive=$(cat ./status.json | jq '.botActive')
+          sed -i "s|<p>Bot activo: .*?</p>|<p>Bot activo: ${botActive}</p>|" README.md
+          git config user.name "Anonimo93"
+          git config user.email "zandytorrea@gmail.com"
+          git add README.md status.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README with latest info"
+          git pull origin master
+          git push origin master
