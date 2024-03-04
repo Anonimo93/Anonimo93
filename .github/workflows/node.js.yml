@@ -22,7 +22,7 @@ jobs:
      with:
        node-version: '16'
    - run: npm install
-   - run: npm run update-readme
+   - run: npm run update
      env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
         
