@@ -3,12 +3,12 @@ import fs from "fs/promises";
 import { execSync } from "child_process";
 import moment from "moment";
 
-import { updateStatus } from "./Modules/updateStatus.js";
-import { updateConnection } from "./Modules/updateConnection.js"
+import { updateBotStatus } from "./modules/updateBotStatus.js";
+import { updateConnection } from "./modules/updateConnection.js"
 
 async function main(){
     await updateConnection("Anonimo93");
-    await updateStatus("Online");
+    await updateBotStatus("Online");
 }
 
 main();

@@ -1,7 +1,7 @@
 import axios from "axios";
 import { fs } from "fs/promises";
 
-export async function updateStatus(status) {
+export async function updateBotStatus(status) {
     const data = { botStatus: status };
     await fs.writeFile("./status.json", JSON.stringify(data));
 
