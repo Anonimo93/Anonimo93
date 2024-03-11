@@ -1,5 +1,5 @@
 import axios from "axios";
-import { fs } from "fs/promises";
+import fs from "fs/promises";
 
 export async function updateConnection(username) {
     try {
