@@ -1,22 +1,18 @@
- name: Wakatime Stats
+name: Waka Readme
 
- on:
+on:
  workflow_dispatch:
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
-
- steps:
-   - name: Checkout code
-     uses: actions/checkout@v2
-
-   - uses: claserre9/wakatime-stats@vmaster
-     with:
-       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-       WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
-       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-       TABLE_STYLE: 'default' # (optional) can be 'default','box' or 'box-double'
-       MAX_LANGUAGES: '5' # (optional) any number > 5, if under 5, this will be set to 5
-       WAKATIME_TIME_RANGE: 'all_time' # (optional) can be 'last_7_days', 'last_30_days', 'last_6_months' or 'last_year'
+    steps:
+       - uses: claserre9/wakatime-stats@vmaster
+         with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_USER_ID: ${{ secrets.WAKATIME_USER_ID }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          TABLE_STYLE: 'default' # (optional) can be 'default','box' or 'box-double'
+          MAX_LANGUAGES: '5' # (optional) any number > 5, if under 5, this will be set to 5
+          WAKATIME_TIME_RANGE: 'all_time' # (optional) can be 'last_7_days', 'last_30_days', 'last_6_months' or 'last_year'
