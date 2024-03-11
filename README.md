@@ -118,7 +118,35 @@ Operating Systems
 </div>
 
 [//]: # (wakatime-stats)
+
+### Wakatime Stats
+```
++--------- All Time Stats for Programming Languages ---------+
+| Programming Languages     | Total Hours                    |
++---------------------------+--------------------------------+
+| YAML                      |            22 mins             |
+| Markdown                  |             0 secs             |
+| JSON                      |             0 secs             |
++---------------------------+--------------------------------+
+
+
++---------------- All Time Stats for Editors ----------------+
+| Editors                   | Total Hours                    |
++---------------------------+--------------------------------+
+| VS Code                   |            23 mins             |
++---------------------------+--------------------------------+
+
+
++----------- All Time Stats for Operating Systems -----------+
+| Operating Systems         | Total Hours                    |
++---------------------------+--------------------------------+
+| Linux                     |            23 mins             |
++---------------------------+--------------------------------+
+```
+
 [//]: # (end-wakatime-stats)
+
+
  
 <!--
     
