@@ -117,37 +117,9 @@ Operating Systems
 <p align="right"><i>ultima coneccion</i> : <b>2/23/2024, 6:20:56 PM</b></p>
 </div>
 
-[//]: # (wakatime-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-### Wakatime Stats
-```
-+--------- All Time Stats for Programming Languages ---------+
-| Programming Languages     | Total Hours                    |
-+---------------------------+--------------------------------+
-| YAML                      |            22 mins             |
-| Markdown                  |             0 secs             |
-| JSON                      |             0 secs             |
-+---------------------------+--------------------------------+
-
-
-+---------------- All Time Stats for Editors ----------------+
-| Editors                   | Total Hours                    |
-+---------------------------+--------------------------------+
-| VS Code                   |            23 mins             |
-+---------------------------+--------------------------------+
-
-
-+----------- All Time Stats for Operating Systems -----------+
-| Operating Systems         | Total Hours                    |
-+---------------------------+--------------------------------+
-| Linux                     |            23 mins             |
-+---------------------------+--------------------------------+
-```
-
-[//]: # (end-wakatime-stats)
-
-
- 
 <!--
     
 > <img src="https://img.shields.io/badge/PostgreSQL-brightgreen?style=flat&logo=postgresql&logoColor=%20%23ffffff&labelColor=%234169E1&color=%23333333" />
