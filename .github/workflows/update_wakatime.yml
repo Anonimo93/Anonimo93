@@ -2,13 +2,11 @@
 
  on:
  workflow_dispatch:
- schedule:
- - cron: '0 0 * * *'  # Run at midnight every day
 
- jobs:
- update-readme-with-wakatime-stats:
- name: Update README with Wakatime stats
- runs-on: ubuntu-latest
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
 
  steps:
    - name: Checkout code
