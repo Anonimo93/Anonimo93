@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/github/Anonimo93/Anonimo93.svg)](https://wakatime.com/badge/github/Anonimo93/Anonimo93)
+[![wakatime](https://wakatime.com/badge/user/018e0a96-2c71-4be6-9de8-e5a5bdf9619a/project/018e0a97-806a-4f4d-aa66-754427753087.svg)](https://wakatime.com/badge/user/018e0a96-2c71-4be6-9de8-e5a5bdf9619a/project/018e0a97-806a-4f4d-aa66-754427753087)
 
 <!---------------------------------------------------- GITHub Action BOT Status ------------------------------------------------->
 <div>
