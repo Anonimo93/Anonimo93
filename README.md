@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/github/Anonimo93/Anonimo93.svg)](https://wakatime.com/badge/github/Anonimo93/Anonimo93)
+
 <!---------------------------------------------------- GITHub Action BOT Status ------------------------------------------------->
 <div>
 <img src="https://img.shields.io/badge/GitHub%20Action%20Bot%20Status-Online-brightgreen?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=000000&color=448EE4" align="right" />
