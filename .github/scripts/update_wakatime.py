@@ -167,8 +167,12 @@ SVG += f'''
   <line x1="20" y1="{total_h-10}" x2="500" y2="{total_h-10}" stroke="url(#headerGrad)" stroke-width="0.5" opacity="0.3"/>
 </svg>'''
 
-output = f'<div align="center">\n\n{SVG}\n\n</div>'
-print(f"Generated SVG ({total_h}px tall)")
+SVG_FILE = "wakatime-stats.svg"
+with open(SVG_FILE, "w") as f:
+    f.write(SVG)
+print(f"Saved SVG ({total_h}px tall)")
+
+output = '<div align="center">\n\n<img src="wakatime-stats.svg" alt="WakaTime Stats" width="520">\n\n</div>'
 
 # Update README
 if not os.path.exists(README_PATH):
