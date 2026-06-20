@@ -97,32 +97,131 @@ Fullstack Developer with **4+ years** building production web and mobile applica
 
 <!--START_SECTION:waka-->
 
-```text
-**From:** 2024-03-04 — **To:** 2026-06-20
+<div align="center">
 
-**Total Time:** 18h 4m
+<svg width="520" viewBox="0 0 520 559" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="barGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00f5d4"/>
+      <stop offset="50%" stop-color="#48dbfb"/>
+      <stop offset="100%" stop-color="#b5179e"/>
+    </linearGradient>
+    <linearGradient id="headerGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00f5d4" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#00f5d4" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#48dbfb" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#b5179e" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00f5d4"/>
+      <stop offset="50%" stop-color="#48dbfb"/>
+      <stop offset="100%" stop-color="#b5179e"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-**Languages:**
-- YAML          10h 11m  ███████████░░░░░░░░░  56.4%
-- Python         5h 40m  ██████░░░░░░░░░░░░░░  31.4%
-- Markdown          44m  █░░░░░░░░░░░░░░░░░░░  4.1%
-- JavaScript        37m  █░░░░░░░░░░░░░░░░░░░  3.4%
-- Bash              21m  ░░░░░░░░░░░░░░░░░░░░  2.0%
-- Docker            12m  ░░░░░░░░░░░░░░░░░░░░  1.2%
-- Other             12m  ░░░░░░░░░░░░░░░░░░░░  1.1%
-- Text               3m  ░░░░░░░░░░░░░░░░░░░░  0.3%
+  <rect width="520" height="559" rx="14" fill="#06061a"/>
+  <rect x="1" y="1" width="518" height="557" rx="13" fill="none" stroke="url(#accent)" stroke-width="0.5" opacity="0.3"/>
 
-**Projects:**
-- Anonimo93              10h 7m  ███████████░░░░░░░░░  56.1%
-- animebot                6h 9m  ███████░░░░░░░░░░░░░  34.1%
-- work                      55m  █░░░░░░░░░░░░░░░░░░░  5.1%
-- Wabot                     41m  █░░░░░░░░░░░░░░░░░░░  3.8%
-- Unknown Project            3m  ░░░░░░░░░░░░░░░░░░░░  0.4%
-- botonera                   2m  ░░░░░░░░░░░░░░░░░░░░  0.2%
-- telegram-bot-kit           1m  ░░░░░░░░░░░░░░░░░░░░  0.2%
-- fullstack-dashboard        1m  ░░░░░░░░░░░░░░░░░░░░  0.1%
+  <text x="260" y="34" text-anchor="middle" fill="#00f5d4" font-family="'Courier New',monospace" font-size="20" font-weight="bold" filter="url(#glow)" letter-spacing="3">⚡ WAKATIME  STATS</text>
 
-```
+  <text x="260" y="54" text-anchor="middle" fill="#ffffff" font-family="'Courier New',monospace" font-size="10" opacity="0.8">18h 7m  ·  coding activity</text>
+
+  <text x="260" y="70" text-anchor="middle" fill="#576574" font-family="'Courier New',monospace" font-size="9">2024-03-04  →  2026-06-20</text>
+  <rect x="15" y="90" width="490" height="1" fill="url(#headerGrad)" opacity="0.4"/>
+  <text x="20" y="106" fill="#48dbfb" font-family="'Courier New',monospace" font-size="10" letter-spacing="2">▸ LANGUAGES</text>
+  <text x="20" y="128" fill="#c8d6e5" font-family="'Courier New',monospace" font-size="12" font-weight="bold">YAML</text>
+  <rect x="140" y="118" width="240" height="8" rx="4" fill="#151530"/>
+  <rect x="140" y="118" width="135" height="8" rx="4" fill="url(#barGrad)" filter="url(#glow)"/>
+  <text x="395" y="128" fill="#a4b0be" font-family="'Courier New',monospace" font-size="11">10h 11m</text>
+  <text x="475" y="128" fill="#00f5d4" font-family="'Courier New',monospace" font-size="12" font-weight="bold" filter="url(#glow)">56.2%</text>
+  <text x="20" y="152" fill="#c8d6e5" font-family="'Courier New',monospace" font-size="12" font-weight="bold">Python</text>
+  <rect x="140" y="142" width="240" height="8" rx="4" fill="#151530"/>
+  <rect x="140" y="142" width="75" height="8" rx="4" fill="url(#barGrad)" filter="url(#glow)"/>
+  <text x="395" y="152" fill="#a4b0be" font-family="'Courier New',monospace" font-size="11">5h 41m</text>
+  <text x="475" y="152" fill="#00f5d4" font-family="'Courier New',monospace" font-size="12" font-weight="bold" filter="url(#glow)">31.4%</text>
+  <text x="20" y="176" fill="#c8d6e5" font-family="'Courier New',monospace" font-size="12" font-weight="bold">Markdown</text>
+  <rect x="140" y="166" width="240" height="8" rx="4" fill="#151530"/>
+  <rect x="140" y="166" width="10" height="8" rx="4" fill="url(#barGrad)" filter="url(#glow)"/>
+  <text x="395" y="176" fill="#a4b0be" font-family="'Courier New',monospace" font-size="11">44m</text>
+  <text x="475" y="176" fill="#00f5d4" font-family="'Courier New',monospace" font-size="12" font-weight="bold" filter="url(#glow)">4.1%</text>
+  <text x="20" y="200" fill="#c8d6e5" font-family="'Courier New',monospace" font-size="12" font-weight="bold">JavaScript</text>
+  <rect x="140" y="190" width="240" height="8" rx="4" fill="#151530"/>
+  <rect x="140" y="190" width="8" height="8" rx="4" fill="url(#barGrad)" filter="url(#glow)"/>
+  <text x="395" y="200" fill="#a4b0be" font-family="'Courier New',monospace" font-size="11">37m</text>
+  <text x="475" y="200" fill="#00f5d4" font-family="'Courier New',monospace" font-size="12" font-weight="bold" filter="url(#glow)">3.4%</text>
+  <text x="20" y="224" fill="#c8d6e5" font-family="'Courier New',monospace" font-size="12" font-weight="bold">Bash</text>
+  <rect x="140" y="214" width="240" height="8" rx="4" fill="#151530"/>
+  <rect x="140" y="214" width="5" height="8" rx="4" fill="url(#barGrad)" filter="url(#glow)"/>
+  <text x="395" y="224" fill="#a4b0be" font-family="'Courier New',monospace" font-size="11">21m</text>
+  <text x="475" y="224" fill="#00f5d4" font-family="'Courier New',monospace" font-size="12" font-weight="bold" filter="url(#glow)">2.0%</text>
+  <text x="20" y="248" fill="#c8d6e5" font-family="'Courier New',monospace" font-size="12" font-weight="bold">Other</text>
+  <rect x="140" y="238" width="240" height="8" rx="4" fill="#151530"/>
+  <rect x="140" y="238" width="3" height="8" rx="4" fill="url(#barGrad)" filter="url(#glow)"/>
+  <text x="395" y="248" fill="#a4b0be" font-family="'Courier New',monospace" font-size="11">14m</text>
+  <text x="475" y="248" fill="#00f5d4" font-family="'Courier New',monospace" font-size="12" font-weight="bold" filter="url(#glow)">1.3%</text>
+  <text x="20" y="272" fill="#c8d6e5" font-family="'Courier New',monospace" font-size="12" font-weight="bold">Docker</text>
+  <rect x="140" y="262" width="240" height="8" rx="4" fill="#151530"/>
+  <rect x="140" y="262" width="3" height="8" rx="4" fill="url(#barGrad)" filter="url(#glow)"/>
+  <text x="395" y="272" fill="#a4b0be" font-family="'Courier New',monospace" font-size="11">12m</text>
+  <text x="475" y="272" fill="#00f5d4" font-family="'Courier New',monospace" font-size="12" font-weight="bold" filter="url(#glow)">1.2%</text>
+  <text x="20" y="296" fill="#c8d6e5" font-family="'Courier New',monospace" font-size="12" font-weight="bold">Text</text>
+  <rect x="140" y="286" width="240" height="8" rx="4" fill="#151530"/>
+  <rect x="140" y="286" width="1" height="8" rx="4" fill="url(#barGrad)" filter="url(#glow)"/>
+  <text x="395" y="296" fill="#a4b0be" font-family="'Courier New',monospace" font-size="11">3m</text>
+  <text x="475" y="296" fill="#00f5d4" font-family="'Courier New',monospace" font-size="12" font-weight="bold" filter="url(#glow)">0.3%</text>
+  <rect x="15" y="322" width="490" height="1" fill="url(#headerGrad)" opacity="0.4"/>
+  <text x="20" y="338" fill="#48dbfb" font-family="'Courier New',monospace" font-size="10" letter-spacing="2">▸ PROJECTS</text>
+  <text x="20" y="360" fill="#c8d6e5" font-family="'Courier New',monospace" font-size="12" font-weight="bold">Anonimo93</text>
+  <rect x="140" y="350" width="240" height="8" rx="4" fill="#151530"/>
+  <rect x="140" y="350" width="134" height="8" rx="4" fill="url(#barGrad)" filter="url(#glow)"/>
+  <text x="395" y="360" fill="#a4b0be" font-family="'Courier New',monospace" font-size="11">10h 9m</text>
+  <text x="475" y="360" fill="#00f5d4" font-family="'Courier New',monospace" font-size="12" font-weight="bold" filter="url(#glow)">56.0%</text>
+  <text x="20" y="384" fill="#c8d6e5" font-family="'Courier New',monospace" font-size="12" font-weight="bold">animebot</text>
+  <rect x="140" y="374" width="240" height="8" rx="4" fill="#151530"/>
+  <rect x="140" y="374" width="82" height="8" rx="4" fill="url(#barGrad)" filter="url(#glow)"/>
+  <text x="395" y="384" fill="#a4b0be" font-family="'Courier New',monospace" font-size="11">6h 9m</text>
+  <text x="475" y="384" fill="#00f5d4" font-family="'Courier New',monospace" font-size="12" font-weight="bold" filter="url(#glow)">34.0%</text>
+  <text x="20" y="408" fill="#c8d6e5" font-family="'Courier New',monospace" font-size="12" font-weight="bold">work</text>
+  <rect x="140" y="398" width="240" height="8" rx="4" fill="#151530"/>
+  <rect x="140" y="398" width="13" height="8" rx="4" fill="url(#barGrad)" filter="url(#glow)"/>
+  <text x="395" y="408" fill="#a4b0be" font-family="'Courier New',monospace" font-size="11">58m</text>
+  <text x="475" y="408" fill="#00f5d4" font-family="'Courier New',monospace" font-size="12" font-weight="bold" filter="url(#glow)">5.3%</text>
+  <text x="20" y="432" fill="#c8d6e5" font-family="'Courier New',monospace" font-size="12" font-weight="bold">Wabot</text>
+  <rect x="140" y="422" width="240" height="8" rx="4" fill="#151530"/>
+  <rect x="140" y="422" width="9" height="8" rx="4" fill="url(#barGrad)" filter="url(#glow)"/>
+  <text x="395" y="432" fill="#a4b0be" font-family="'Courier New',monospace" font-size="11">41m</text>
+  <text x="475" y="432" fill="#00f5d4" font-family="'Courier New',monospace" font-size="12" font-weight="bold" filter="url(#glow)">3.8%</text>
+  <text x="20" y="456" fill="#c8d6e5" font-family="'Courier New',monospace" font-size="12" font-weight="bold">Unknown Project</text>
+  <rect x="140" y="446" width="240" height="8" rx="4" fill="#151530"/>
+  <rect x="140" y="446" width="1" height="8" rx="4" fill="url(#barGrad)" filter="url(#glow)"/>
+  <text x="395" y="456" fill="#a4b0be" font-family="'Courier New',monospace" font-size="11">3m</text>
+  <text x="475" y="456" fill="#00f5d4" font-family="'Courier New',monospace" font-size="12" font-weight="bold" filter="url(#glow)">0.4%</text>
+  <text x="20" y="480" fill="#c8d6e5" font-family="'Courier New',monospace" font-size="12" font-weight="bold">botonera</text>
+  <rect x="140" y="470" width="240" height="8" rx="4" fill="#151530"/>
+  <rect x="140" y="470" width="1" height="8" rx="4" fill="url(#barGrad)" filter="url(#glow)"/>
+  <text x="395" y="480" fill="#a4b0be" font-family="'Courier New',monospace" font-size="11">2m</text>
+  <text x="475" y="480" fill="#00f5d4" font-family="'Courier New',monospace" font-size="12" font-weight="bold" filter="url(#glow)">0.2%</text>
+  <text x="20" y="504" fill="#c8d6e5" font-family="'Courier New',monospace" font-size="12" font-weight="bold">telegram-bot-kit</text>
+  <rect x="140" y="494" width="240" height="8" rx="4" fill="#151530"/>
+  <rect x="140" y="494" width="1" height="8" rx="4" fill="url(#barGrad)" filter="url(#glow)"/>
+  <text x="395" y="504" fill="#a4b0be" font-family="'Courier New',monospace" font-size="11">1m</text>
+  <text x="475" y="504" fill="#00f5d4" font-family="'Courier New',monospace" font-size="12" font-weight="bold" filter="url(#glow)">0.2%</text>
+  <text x="20" y="528" fill="#c8d6e5" font-family="'Courier New',monospace" font-size="12" font-weight="bold">fullstack-dashboard</text>
+  <rect x="140" y="518" width="240" height="8" rx="4" fill="#151530"/>
+  <rect x="140" y="518" width="1" height="8" rx="4" fill="url(#barGrad)" filter="url(#glow)"/>
+  <text x="395" y="528" fill="#a4b0be" font-family="'Courier New',monospace" font-size="11">1m</text>
+  <text x="475" y="528" fill="#00f5d4" font-family="'Courier New',monospace" font-size="12" font-weight="bold" filter="url(#glow)">0.1%</text>
+  <line x1="20" y1="549" x2="500" y2="549" stroke="url(#headerGrad)" stroke-width="0.5" opacity="0.3"/>
+</svg>
+
+</div>
 
 <!--END_SECTION:waka-->
 
