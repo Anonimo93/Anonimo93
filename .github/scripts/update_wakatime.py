@@ -46,10 +46,11 @@ def make_bar(percent, width=20):
 
 def find_earliest_date(data):
     for day in data:
-        r = day.get("range", {})
-        d = r.get("date", r.get("start", ""))
-        if d:
-            return d[:10]
+        if day.get("grand_total", {}).get("total_seconds", 0) > 0:
+            r = day.get("range", {})
+            d = r.get("date", r.get("start", ""))
+            if d:
+                return d[:10]
     return "N/A"
 
 today = date.today()

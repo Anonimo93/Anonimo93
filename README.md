@@ -97,12 +97,31 @@ Fullstack Developer with **4+ years** building production web and mobile applica
 
 <!--START_SECTION:waka-->
 
-```typescript
-From: 13 June 2026 - To: 20 June 2026
+```text
+**From:** 2024-03-04 — **To:** 2026-06-20
 
-Total Time: 0 secs
+**Total Time:** 18h 4m
 
-No activity tracked
+**Languages:**
+- YAML          10h 11m  ███████████░░░░░░░░░  56.4%
+- Python         5h 40m  ██████░░░░░░░░░░░░░░  31.4%
+- Markdown          44m  █░░░░░░░░░░░░░░░░░░░  4.1%
+- JavaScript        37m  █░░░░░░░░░░░░░░░░░░░  3.4%
+- Bash              21m  ░░░░░░░░░░░░░░░░░░░░  2.0%
+- Docker            12m  ░░░░░░░░░░░░░░░░░░░░  1.2%
+- Other             12m  ░░░░░░░░░░░░░░░░░░░░  1.1%
+- Text               3m  ░░░░░░░░░░░░░░░░░░░░  0.3%
+
+**Projects:**
+- Anonimo93              10h 7m  ███████████░░░░░░░░░  56.1%
+- animebot                6h 9m  ███████░░░░░░░░░░░░░  34.1%
+- work                      55m  █░░░░░░░░░░░░░░░░░░░  5.1%
+- Wabot                     41m  █░░░░░░░░░░░░░░░░░░░  3.8%
+- Unknown Project            3m  ░░░░░░░░░░░░░░░░░░░░  0.4%
+- botonera                   2m  ░░░░░░░░░░░░░░░░░░░░  0.2%
+- telegram-bot-kit           1m  ░░░░░░░░░░░░░░░░░░░░  0.2%
+- fullstack-dashboard        1m  ░░░░░░░░░░░░░░░░░░░░  0.1%
+
 ```
 
 <!--END_SECTION:waka-->
