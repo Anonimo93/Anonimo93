@@ -96,9 +96,15 @@ Fullstack Developer with **4+ years** building production web and mobile applica
 ## 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-```text
-No data yet — will auto-populate when WakaTime is configured.
+
+```typescript
+From: 04 March 2024 - To: 20 June 2026
+
+Total Time: 23 mins
+
+Markdown   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
+
 <!--END_SECTION:waka-->
 
 ---
