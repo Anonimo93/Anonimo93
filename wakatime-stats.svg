@@ -30,7 +30,7 @@
 
   <text x="260" y="34" text-anchor="middle" fill="#00f5d4" font-family="'Courier New',monospace" font-size="20" font-weight="bold" filter="url(#glow)" letter-spacing="3">⚡ WAKATIME  STATS</text>
 
-  <text x="260" y="54" text-anchor="middle" fill="#ffffff" font-family="'Courier New',monospace" font-size="10" opacity="0.8">56h 42m  ·  coding activity</text>
+  <text x="260" y="54" text-anchor="middle" fill="#ffffff" font-family="'Courier New',monospace" font-size="10" opacity="0.8">56h 43m  ·  coding activity</text>
 
   <text x="260" y="70" text-anchor="middle" fill="#576574" font-family="'Courier New',monospace" font-size="9">2024-03-04  →  2026-10-24</text>
   <rect x="15" y="90" width="490" height="1" fill="url(#headerGrad)" opacity="0.4"/>
@@ -48,7 +48,7 @@
   <text x="20" y="176" fill="#c8d6e5" font-family="'Courier New',monospace" font-size="12" font-weight="bold">Other</text>
   <rect x="140" y="166" width="240" height="8" rx="4" fill="#151530"/>
   <rect x="140" y="166" width="40" height="8" rx="4" fill="url(#barGrad)" filter="url(#glow)"/>
-  <text x="395" y="176" fill="#a4b0be" font-family="'Courier New',monospace" font-size="11">9h 32m</text>
+  <text x="395" y="176" fill="#a4b0be" font-family="'Courier New',monospace" font-size="11">9h 33m</text>
   <text x="475" y="176" fill="#00f5d4" font-family="'Courier New',monospace" font-size="12" font-weight="bold" filter="url(#glow)">16.8%</text>
   <text x="20" y="200" fill="#c8d6e5" font-family="'Courier New',monospace" font-size="12" font-weight="bold">Dart</text>
   <rect x="140" y="190" width="240" height="8" rx="4" fill="#151530"/>
